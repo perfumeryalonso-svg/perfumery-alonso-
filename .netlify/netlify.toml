@@ -10,7 +10,6 @@ redirects = []
 publish = "/Users/neardominguez/Desktop/Perfumes/dist"
 publishOrigin = "ui"
 commandOrigin = "ui"
-base = "/Users/neardominguez/Desktop/Perfumes"
 command = "npm run build"
 
 [build.environment]
